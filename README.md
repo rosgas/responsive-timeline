@@ -3,3 +3,6 @@ A responsive vertical timeline made with HTML5 & CSS3. I used a bit of JavaScrip
 
 <a href="https://rosgas.github.io/responsive-timeline/index.html">DEMO</a>
 <img src="timeline-preview.png" alt="Timeline Preview" /> 
+
+# License
+responsive-timeline is available under MIT. See LICENSE for more details.
